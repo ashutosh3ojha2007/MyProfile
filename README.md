@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/ashutosh3ojha2007" alt="Ashutosh kumar ojha"/> </p>
 
 
-## :computer: Technologies I Love
-* Java
-* Flutter
-* Kotlin
-* Rest Full API, GraphQL
+## 🥇:9+ years of consistent performance with a track record of meeting or exceeding business goals.
+* Overall 9+ years of experience in Android application development
+* Mobile Development in Java and Flutter
+* Excellent exposure in interacting with clients
+* Strong problem solving and technical skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction within the committed time frames
 
 
 ## :computer: Technologies I Love
@@ -25,7 +25,9 @@
 * Kotlin
 * Rest Full API, GraphQL
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+
+
+
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
