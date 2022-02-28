@@ -11,7 +11,7 @@
 
 ## 🥇 9 years of consistent performance with a track record of meeting or exceeding business goals.
 * Overall 9 years of experience in Android application development
-* Mobile Development in Java and Flutter
+* Mobile Development in Java ,Kotlin and Flutter
 * Excellent exposure in interacting with clients
 * Strong problem solving and technical skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction within the committed time frames
 
