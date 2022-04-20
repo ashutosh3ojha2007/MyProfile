@@ -23,6 +23,9 @@
 * JetPack
 * Hilt
 * Dagger2
+* Firebase
+* Retrofit
+* Room DB
 * Rest Full API, GraphQL
 
 
