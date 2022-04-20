@@ -18,8 +18,11 @@
 
 ## :computer: Technologies I Love
 * Java
-* Flutter
 * Kotlin
+* Flutter
+* JetPack
+* Hilt
+* Dagger2
 * Rest Full API, GraphQL
 
 
